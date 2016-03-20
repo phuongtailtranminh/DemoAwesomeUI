@@ -10,12 +10,10 @@ import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
 
 public class AnimationActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_animation);
-
         Button btnFadeIn = (Button) findViewById(R.id.btnFadeIn);
         Button btnBounceIn = (Button) findViewById(R.id.btnBounceIn);
         Button btnFlash = (Button) findViewById(R.id.btnFlash);

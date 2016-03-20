@@ -34,6 +34,13 @@
         <activity android:name=".PullRefreshLayoutActivity" />
         <activity android:name=".FlatButtonActivity" />
         <activity android:name=".ViewPagerActivity" />
+        <activity android:name=".BarChartActivity" />
+        <activity android:name=".StackedBarchartActivity" />
+        <activity android:name=".PieChartActivity" />
+        <activity android:name=".LineChartActivity" />
+        <activity android:name=".CircleImageViewActivity" />
+        <activity android:name=".KenBurnsViewActivity" />
+        <activity android:name=".BookLoadingActivity"></activity>
     </application>
 
 </manifest>

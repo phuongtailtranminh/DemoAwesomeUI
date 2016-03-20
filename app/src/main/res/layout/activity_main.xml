@@ -92,6 +92,60 @@
                 android:text="View Pager"
                 android:id="@+id/btnViewPager" />
 
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Dialog Plus"
+                android:id="@+id/btnDialogPlus" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Bar Char"
+                android:id="@+id/btnBarchart" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Stacked Barchart"
+                android:id="@+id/btnStackedBarchart" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Piechart"
+                android:id="@+id/btnPiechart" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Line Chart"
+                android:id="@+id/btnLinechart" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Circle Image View"
+                android:id="@+id/btnCircleImageView" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Kenburn View"
+                android:id="@+id/btnKenburnView" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Book Loading"
+                android:id="@+id/btnBookLoading" />
+
+            <Button
+                android:layout_width="363dp"
+                android:layout_height="wrap_content"
+                android:text="Spot Dialog"
+                android:id="@+id/btnSpotDialog" />
+
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
